@@ -19,3 +19,7 @@ Now, while you can certainly run `repro-api` on its own, you may want to go ahea
 ### Running the specs
 
 `bundle exec rspec`
+
+Or to run them more prettily:
+
+`bundle exec rspec -fd`
